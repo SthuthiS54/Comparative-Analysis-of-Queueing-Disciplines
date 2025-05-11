@@ -7,7 +7,7 @@ This project focuses on analyzing the performance of different queueing discipli
 * Configure Raspberry Pi as a WiFi router using OpenWrt.
 * Analyze the impact of fq-codel and fq-pie on network performance.
 * Measure latency and throughput using Flent.
-* Work on measuring queueing delay to assess the efficiency of queueing disciplines in wireless networks.
+* Work on comparing the efficiency of queueing disciplines in wireless networks.
 
 ## Tools & Technologies
 * OpenWrt – Custom Linux-based firmware for network devices.
